@@ -12,3 +12,7 @@
 8. Reviewing pull request
 9. Report an issue/ bug
 10. Open a discussion
+
+### Programming quotes
+
+> “First, solve the problem. Then, write the code.” – John Johnson
