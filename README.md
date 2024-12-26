@@ -18,3 +18,4 @@
 > “First, solve the problem. Then, write the code.” – John Johnson
 > “Before software can be reusable it first has to be usable.” – Ralph Johnson
 > "Good software, like wine, takes time." - Joel Spolsky
+> "Code never lies; comments sometimes do." - Ron Jeffries
